@@ -59,6 +59,9 @@ Every class, every module, every function:
 
 See: [references/solid-principles.md](references/solid-principles.md)
 
+**NestJS projects:** map SOLID to modules, providers, and DI tokens using ports/adapters and feature boundaries.
+See: [references/nestjs-solid.md](references/nestjs-solid.md)
+
 ### 3. Write Clean, Human-Readable Code
 
 **Naming (in order of priority):**
@@ -262,6 +265,8 @@ After the code works:
 > "A little bit of duplication is 10x better than the wrong abstraction."
 
 > "Focus on WHAT needs to happen, not HOW it needs to happen."
+
+> "SOLID is a set of heuristics, not immutable laws."
 
 > "Design principles become second nature through practice. Eventually, you won't think about SOLID - you'll just write SOLID code."
 

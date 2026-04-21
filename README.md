@@ -33,6 +33,7 @@ Transform junior-level code into senior-engineer quality software. Primarily des
 **Reference documentation included:**
 
 - `solid-principles.md` - SOLID principles with TypeScript examples
+- `nestjs-solid.md` - Practical SOLID application in NestJS (DI tokens, ports/adapters, module boundaries)
 - `tdd.md` - Test-Driven Development practices
 - `testing.md` - Testing strategies and patterns
 - `clean-code.md` - Clean code guidelines
@@ -77,6 +78,7 @@ skills/
     ├── SKILL.md           # Main skill instructions
     └── references/        # Supporting documentation
         ├── solid-principles.md
+        ├── nestjs-solid.md
         ├── tdd.md
         ├── testing.md
         ├── clean-code.md
