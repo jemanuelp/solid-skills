@@ -55,7 +55,7 @@ Transform junior-level code into senior-engineer quality software. Primarily des
 ## Installation
 
 ```bash
-npx skills add ramziddin/solid-skills
+npx skills add jemanuelp/solid-skills
 ```
 
 ## Usage
